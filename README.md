@@ -45,3 +45,13 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 - [MongoDB Documentation](https://docs.mongodb.com/)
 - [MongoDB University](https://university.mongodb.com/)
 - [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/) 
+
+## How to Run the Script
+
+To populate your MongoDB database with sample data, use the provided `insert_books.js` script.
+
+### Option 1: Using MongoDB Shell (`mongosh`)
+
+1. Make sure your MongoDB server is running.
+2. Open your terminal.
+3. Run the commands from the given questions
